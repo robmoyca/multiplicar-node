@@ -1,5 +1,6 @@
 //Esta libreria permite una facilidad al desarrollar comandos para llamar nuestras aplicaciones
 const argv = require('./config/yargs').argv;
+var colors = require('colors');
 //requireds
 
 //esta siguiente linea con las llaves es una destructuracion
